@@ -1,0 +1,36 @@
+.frame {
+  width: 100%;
+  min-width: 1500px;
+  min-height: 3072px;
+  position: relative;
+}
+
+.frame .your-paragraph-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1500px;
+  height: 1024px;
+  aspect-ratio: 1.46;
+  object-fit: cover;
+}
+
+.frame .element {
+  position: absolute;
+  top: 1975px;
+  left: 0;
+  width: 1500px;
+  height: 1097px;
+  aspect-ratio: 1.37;
+  object-fit: cover;
+}
+
+.frame .img {
+  position: absolute;
+  top: 951px;
+  left: 0;
+  width: 1500px;
+  height: 1097px;
+  aspect-ratio: 1.37;
+  object-fit: cover;
+}
